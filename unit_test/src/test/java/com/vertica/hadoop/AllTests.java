@@ -87,7 +87,7 @@ public final class AllTests {
     TestSuite suite = new TestSuite("Tests for com.hadoop.vertica");
 
     if (run_tests) {
-      suite.addTestSuite(TestVertica.class);
+      //suite.addTestSuite(TestVertica.class);
       suite.addTestSuite(TestExample.class);
     }
     return suite;
