@@ -1,3 +1,4 @@
+.gitignore
 hadoop-connector/build
 hadoop-example/build
 pig-connector/build
