@@ -4,3 +4,6 @@ pig-connector/build
 squeal/build
 .build.properties
 
++.idea/
++*.iml
++target/
